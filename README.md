@@ -1,7 +1,3 @@
-Based on the code you've provided, it seems you're working on an income prediction application using the PyCaret library for machine learning and Streamlit for creating a web app. Below is a README template tailored for your project. You might need to fill in or adjust some sections based on the specific details of your project, such as installation instructions, additional dependencies, or any configuration steps that are not explicitly covered in the provided code.
-
----
-
 # Income Prediction Application
 
 ## Introduction
