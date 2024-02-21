@@ -16,10 +16,7 @@ This project is an income prediction application designed to classify individual
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
 - [Documentation](#documentation)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [License](#license)
+
 
 ## Installation
 
