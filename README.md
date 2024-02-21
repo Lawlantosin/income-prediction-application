@@ -32,7 +32,6 @@ To start the application, navigate to the directory containing the Streamlit app
 streamlit run app.py
 ```
 
-Replace `app.py` with the actual name of your Streamlit application script.
 
 ## Features
 
