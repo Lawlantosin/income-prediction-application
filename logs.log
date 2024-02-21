@@ -1,0 +1,215 @@
+2024-02-21 12:47:18,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 12:47:18,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 12:47:18,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 12:47:18,038:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 12:47:20,155:INFO:Initializing load_model()
+2024-02-21 12:47:20,155:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 12:59:25,041:INFO:Initializing load_model()
+2024-02-21 12:59:25,041:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:00:01,277:INFO:Initializing load_model()
+2024-02-21 13:00:01,277:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:00:15,102:INFO:Initializing load_model()
+2024-02-21 13:00:15,102:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:00:28,126:INFO:Initializing load_model()
+2024-02-21 13:00:28,126:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:00:33,746:INFO:Initializing load_model()
+2024-02-21 13:00:33,746:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:00:35,535:INFO:Initializing load_model()
+2024-02-21 13:00:35,535:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:00:36,853:INFO:Initializing load_model()
+2024-02-21 13:00:36,853:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:03:19,458:INFO:Initializing load_model()
+2024-02-21 13:03:19,458:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:13:15,371:INFO:Initializing load_model()
+2024-02-21 13:13:15,371:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:13:42,970:INFO:Initializing load_model()
+2024-02-21 13:13:42,971:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:13:53,047:INFO:Initializing load_model()
+2024-02-21 13:13:53,047:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:06,203:INFO:Initializing load_model()
+2024-02-21 13:15:06,205:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:07,240:INFO:Initializing load_model()
+2024-02-21 13:15:07,240:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:08,535:INFO:Initializing load_model()
+2024-02-21 13:15:08,535:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:10,549:INFO:Initializing load_model()
+2024-02-21 13:15:10,549:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:11,533:INFO:Initializing load_model()
+2024-02-21 13:15:11,534:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:16,034:INFO:Initializing load_model()
+2024-02-21 13:15:16,035:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:20,089:INFO:Initializing load_model()
+2024-02-21 13:15:20,089:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:27,658:INFO:Initializing load_model()
+2024-02-21 13:15:27,658:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:31,567:INFO:Initializing load_model()
+2024-02-21 13:15:31,567:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:36,006:INFO:Initializing load_model()
+2024-02-21 13:15:36,006:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:39,375:INFO:Initializing load_model()
+2024-02-21 13:15:39,375:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:39,646:INFO:Initializing predict_model()
+2024-02-21 13:15:39,646:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000180877BD340>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'education-num',
+                                             'capital-gain', 'capital-loss',
+                                             'hours-per-week'],
+                                    transformer=SimpleImputer(strategy='median'))),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['workclass', 'education',
+                                             'marital-status', 'occupation',
+                                             'relationship', 'race', 'sex',
+                                             'nativ...
+                                    transformer=TargetEncoder(cols=['native-country'],
+                                                              handle_missing='return_nan'))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=2686))),
+                ('balance',
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTEENN()))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 LGBMClassifier(device='gpu', n_jobs=-1, random_state=2686))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000180A3F3DEE0>)
+2024-02-21 13:15:39,646:INFO:Checking exceptions
+2024-02-21 13:15:39,646:INFO:Preloading libraries
+2024-02-21 13:15:39,646:INFO:Set up data.
+2024-02-21 13:15:39,663:INFO:Set up index.
+2024-02-21 13:15:48,150:INFO:Initializing load_model()
+2024-02-21 13:15:48,150:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:49,629:INFO:Initializing load_model()
+2024-02-21 13:15:49,631:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:50,346:INFO:Initializing load_model()
+2024-02-21 13:15:50,346:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:51,111:INFO:Initializing load_model()
+2024-02-21 13:15:51,111:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:52,297:INFO:Initializing load_model()
+2024-02-21 13:15:52,297:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:15:53,012:INFO:Initializing load_model()
+2024-02-21 13:15:53,012:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:16:02,386:INFO:Initializing load_model()
+2024-02-21 13:16:02,386:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:16:04,417:INFO:Initializing load_model()
+2024-02-21 13:16:04,418:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:16:07,336:INFO:Initializing load_model()
+2024-02-21 13:16:07,337:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:16:10,769:INFO:Initializing load_model()
+2024-02-21 13:16:10,769:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:16:13,295:INFO:Initializing load_model()
+2024-02-21 13:16:13,295:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 13:16:13,563:INFO:Initializing predict_model()
+2024-02-21 13:16:13,576:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000180A68D6A60>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'education-num',
+                                             'capital-gain', 'capital-loss',
+                                             'hours-per-week'],
+                                    transformer=SimpleImputer(strategy='median'))),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['workclass', 'education',
+                                             'marital-status', 'occupation',
+                                             'relationship', 'race', 'sex',
+                                             'nativ...
+                                    transformer=TargetEncoder(cols=['native-country'],
+                                                              handle_missing='return_nan'))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=2686))),
+                ('balance',
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTEENN()))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 LGBMClassifier(device='gpu', n_jobs=-1, random_state=2686))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000180A44D6AF0>)
+2024-02-21 13:16:13,576:INFO:Checking exceptions
+2024-02-21 13:16:13,576:INFO:Preloading libraries
+2024-02-21 13:16:13,576:INFO:Set up data.
+2024-02-21 13:16:13,583:INFO:Set up index.
+2024-02-21 14:52:32,889:INFO:Initializing load_model()
+2024-02-21 14:52:32,889:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:11,282:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 16:32:11,298:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 16:32:11,298:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 16:32:11,298:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 16:32:15,518:INFO:Initializing load_model()
+2024-02-21 16:32:15,518:INFO:Initializing load_model()
+2024-02-21 16:32:15,518:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:15,518:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:16,133:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:27,684:INFO:Initializing load_model()
+2024-02-21 16:32:27,684:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:27,826:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:29,420:INFO:Initializing load_model()
+2024-02-21 16:32:29,420:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:29,545:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:33,784:INFO:Initializing load_model()
+2024-02-21 16:32:33,784:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:33,879:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:34,687:INFO:Initializing load_model()
+2024-02-21 16:32:34,687:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:34,795:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:37,409:INFO:Initializing load_model()
+2024-02-21 16:32:37,409:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:37,533:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:41,173:INFO:Initializing load_model()
+2024-02-21 16:32:41,173:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:41,308:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:42,473:INFO:Initializing load_model()
+2024-02-21 16:32:42,473:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:42,598:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:44,720:INFO:Initializing load_model()
+2024-02-21 16:32:44,720:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:44,878:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:46,411:INFO:Initializing load_model()
+2024-02-21 16:32:46,411:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:46,495:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:46,979:INFO:Initializing load_model()
+2024-02-21 16:32:46,979:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:47,098:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:47,472:INFO:Initializing load_model()
+2024-02-21 16:32:47,472:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:47,610:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:52,074:INFO:Initializing load_model()
+2024-02-21 16:32:52,074:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-21 16:32:52,245:INFO:Transformation Pipeline and Model Successfully Loaded
+2024-02-21 16:32:52,616:INFO:Initializing predict_model()
+2024-02-21 16:32:52,616:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001F61030D550>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'education-num',
+                                             'capital-gain', 'capital-loss',
+                                             'hours-per-week'],
+                                    transformer=SimpleImputer(strategy='median'))),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['workclass', 'education',
+                                             'marital-status', 'occupation',
+                                             'relationship', 'race', 'sex',
+                                             'nativ...
+                                    transformer=TargetEncoder(cols=['native-country'],
+                                                              handle_missing='return_nan'))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=2686))),
+                ('balance',
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTEENN()))),
+                ('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('trained_model',
+                 LGBMClassifier(device='gpu', n_jobs=-1, random_state=2686))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001F60E6A8D30>)
+2024-02-21 16:32:52,616:INFO:Checking exceptions
+2024-02-21 16:32:52,616:INFO:Preloading libraries
+2024-02-21 16:32:52,616:INFO:Set up data.
+2024-02-21 16:32:52,632:INFO:Set up index.
+2024-02-21 19:31:56,623:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 19:31:56,623:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 19:31:56,623:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 19:31:56,623:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-21 19:32:04,075:INFO:Initializing load_model()
+2024-02-21 19:32:04,076:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
