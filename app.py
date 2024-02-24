@@ -4,7 +4,7 @@ import pandas as pd
 from pycaret.classification import predict_model, load_model
 import streamlit as st
 
-model_dir = "/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API"
+model_dir = "light_gbm_API"
 
 # load the model
 model = load_model(model_dir)
@@ -15,7 +15,7 @@ st.title("Income Prediction app")
 # create form for user input
 st.sidebar.header("User Input Features")
 
-df = pd.read_csv(r"C:\Users\USER\OneDrive - hull.ac.uk\AZURE\income\income.csv")
+df = pd.read_csv(r"income.csv")
 
 
 def clean_marital_status(status):

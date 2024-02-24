@@ -213,3 +213,13 @@
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2024-02-21 19:32:04,075:INFO:Initializing load_model()
 2024-02-21 19:32:04,076:INFO:load_model(model_name=/Users/USER/OneDrive - hull.ac.uk/AZURE/income/light_gbm_API, platform=None, authentication=None, verbose=True)
+2024-02-24 13:42:57,866:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-24 13:42:57,866:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-24 13:42:57,866:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-24 13:42:57,866:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-02-24 13:43:01,301:INFO:Initializing load_model()
+2024-02-24 13:43:01,301:INFO:load_model(model_name=light_gbm_API, platform=None, authentication=None, verbose=True)
